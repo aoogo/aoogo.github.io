@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://aoogo.github.io/"/>
-  <updated>2018-04-08T14:18:47.010Z</updated>
+  <updated>2018-04-08T05:38:28.212Z</updated>
   <id>https://aoogo.github.io/</id>
   
   <author>
@@ -15,20 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>我的第一篇博客</title>
-    <link href="https://aoogo.github.io/2018/04/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://aoogo.github.io/2018/04/08/我的第一篇博客/</id>
-    <published>2018-04-08T14:18:46.000Z</published>
-    <updated>2018-04-08T14:18:47.010Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
